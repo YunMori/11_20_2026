@@ -1,0 +1,5 @@
+N = int(input())
+V = list(map(int, input().split()))
+I = min(V)
+X = max(V)
+print(I,X)
